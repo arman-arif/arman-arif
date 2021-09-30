@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arman Arif
 - 👀 I’m interested in Web and Software development
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me: Email: me@armanarif.com
 
