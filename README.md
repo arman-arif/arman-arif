@@ -88,5 +88,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-arif&show_icons=true&locale=en&layout=compact" alt="arman-arif" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-arif&show_icons=true&locale=en&layout=compact" alt="arman-arif" />
+</p>
 
