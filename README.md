@@ -100,3 +100,4 @@ You can click the Preview link to take a look at your changes.
 ![Metrics](https://metrics.lecoq.io/arman-arif?template=classic&calendar=1&lines=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&calendar=false&calendar.limit=1&config.timezone=Asia%2FDhaka)
 -->
 
+**![Metrics](https://metrics.lecoq.io/arman-arif?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)**
