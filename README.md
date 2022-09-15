@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arman-arif&label=Profile%20views&color=0e75b6&style=flat" alt="arman-arif" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=arman-arif&label=Profile%20views&color=0e75b6&style=flat" alt="arman-arif" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman-arif&theme=oldie&column=7&margin-w=5" alt="arman-arif" /></a> </p>
 
