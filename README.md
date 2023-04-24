@@ -16,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman-arif&theme=oldie&column=7&margin-w=5" alt="arman-arif" /></a> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arman-arif&show_icons=true&locale=en" alt="arman-arif" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=arman-arif&show_icons=true&locale=en" alt="arman-arif" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arman-arif" alt="arman-arif" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-arif&" alt="arman-arif" />
