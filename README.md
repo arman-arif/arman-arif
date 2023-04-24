@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arman-arif&show_icons=true&locale=en" alt="arman-arif" />
-  [Arman Arif's GitHub Stats](https://github-readme-stats-arman-arif.vercel.app/api?username=arman-arif&theme=transparent)
+  ![Arman Arif's GitHub Stats](https://github-readme-stats-arman-arif.vercel.app/api?username=arman-arif&theme=transparent)
   
 </p>
 <p align="center">
