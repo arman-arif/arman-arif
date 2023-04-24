@@ -91,7 +91,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-arif&show_icons=true&layout=compact" alt="arman-arif" />
+  <img src="https://github-readme-stats-arman-arif.vercel.app/api/top-langs?username=arman-arif&show_icons=true&layout=compact&theme=transparent" alt="arman-arif" />
 </p>
 
 <p align="center">
