@@ -80,6 +80,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats-arman-arif.vercel.app/api/top-langs?username=arman-arif&show_icons=true&layout=compact&theme=transparent" alt="arman-arif" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://raw.githubusercontent.com/arman-arif/arman-arif/main/github-metrics.svg" alt="Metrics"/>
-</p>
+</p> -->
