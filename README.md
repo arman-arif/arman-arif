@@ -9,19 +9,28 @@ arman-arif/arman-arif is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+### A passionate full stack developer from Bangladesh
+
+<br/>
+
+
+<!-- <h3 align="center">A passionate full stack developer from Bangladesh</h3> -->
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=arman-arif&label=github.com/arman-arif views&color=0e75b6&style=flat" alt="arman-arif" /> </p> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arman-arif&theme=oldie&column=7&margin-w=5" alt="arman-arif" /></a> </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-arman-arif.vercel.app/api?username=arman-arif&show_icons=true&locale=en&theme=transparent" alt="arman-arif" />  
-</p>
+</p> -->
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-arif&" alt="arman-arif" />
 </p> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=arman-arif&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats-arman-arif.vercel.app/api?username=arman-arif&show_icons=true&locale=en&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arman-arif&theme=transparent)
+
 
 <!-- <p align="left"> <a href="https://twitter.com/@arman3472" target="blank"><img src="https://img.shields.io/twitter/follow/@arman3472?logo=twitter&style=for-the-badge" alt="@arman3472" /></a> </p> -->
 
