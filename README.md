@@ -34,15 +34,15 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p align="left"> <a href="https://twitter.com/@arman3472" target="blank"><img src="https://img.shields.io/twitter/follow/@arman3472?logo=twitter&style=for-the-badge" alt="@arman3472" /></a> </p> -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://twitter.com/@arman3472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arman3472" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/armanarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armanarif" height="30" width="40" /></a>
   <a href="https://fb.com/arman3472" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arman3472" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -87,9 +87,7 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-arman-arif.vercel.app/api/top-langs?username=arman-arif&show_icons=true&layout=compact&theme=transparent" alt="arman-arif" />
-</p>
+<img src="https://github-readme-stats-arman-arif.vercel.app/api/top-langs?username=arman-arif&show_icons=true&layout=compact&theme=transparent" alt="arman-arif" />
 
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/arman-arif/arman-arif/main/github-metrics.svg" alt="Metrics"/>
