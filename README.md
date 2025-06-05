@@ -18,9 +18,10 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://github-readme-stats-arman-arif.vercel.app/api?username=arman-arif&show_icons=true&locale=en&theme=transparent" alt="arman-arif" />  
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-arif&" alt="arman-arif" />
-</p>
+</p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=arman-arif&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <!-- <p align="left"> <a href="https://twitter.com/@arman3472" target="blank"><img src="https://img.shields.io/twitter/follow/@arman3472?logo=twitter&style=for-the-badge" alt="@arman3472" /></a> </p> -->
 
