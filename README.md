@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Ariful Islam
+- 👋 Hi, I’m Ariful
 - 👀 I’m enthusiastic about Software Engineering
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Nest.js
+- :zap: Top-Rated freelancer at Upwork
+
 <!--- - 💞️ I’m looking to collaborate on GitHub -->
-- 📫 How to reach me: email `hello@ariful.dev`
+- 📫 Reach me at `hello@ariful.dev`
 
 <!---
 arman-arif/arman-arif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +12,20 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### A passionate full stack developer from Bangladesh
+
+<div style="text-decoration: none">
+  
+  <a href="https://www.upwork.com/freelancers/~0161cf1b53ad2598e6" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Upwork-brightgreen?logo=upwork&logoColor=white"/>
+  </a>
+  <a href="https://www.fiverr.com/armanarif1" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Fiverr-14ee96?logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/armanarif/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
 
 <br/>
 
