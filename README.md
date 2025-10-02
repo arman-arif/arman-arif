@@ -43,9 +43,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arman-arif&" alt="arman-arif" />
 </p> -->
 
-![GitHub Stats](https://gh-pro-stats.vercel.app/api?username=arman-arif&show_icons=true&locale=en&theme=transparent)
+<!-- ![GitHub Stats](https://gh-pro-stats.vercel.app/api?username=arman-arif&show_icons=true&locale=en&theme=transparent)
 
-![GitHub Streak](https://streak-stats-gh.vercel.app?user=arman-arif&theme=transparent)
+![GitHub Streak](https://streak-stats-gh.vercel.app?user=arman-arif&theme=transparent) -->
 
 
 <!-- <p align="left"> <a href="https://twitter.com/@arman3472" target="blank"><img src="https://img.shields.io/twitter/follow/@arman3472?logo=twitter&style=for-the-badge" alt="@arman3472" /></a> </p> -->
@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
   </a> 
 </p>
 
-<img src="https://github-readme-stats-arman-arif.vercel.app/api/top-langs?username=arman-arif&show_icons=true&layout=compact&theme=transparent" alt="arman-arif" />
+ <!-- <img src="https://github-readme-stats-arman-arif.vercel.app/api/top-langs?username=arman-arif&show_icons=true&layout=compact&theme=transparent" alt="arman-arif" /> -->
 
 <!-- <p align="center">
 <img src="https://raw.githubusercontent.com/arman-arif/arman-arif/main/github-metrics.svg" alt="Metrics"/>
